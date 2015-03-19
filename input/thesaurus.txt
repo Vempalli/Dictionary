@@ -1,0 +1,3 @@
+Apple	Egg,Fan
+Fan	Apple
+Egg	Apple

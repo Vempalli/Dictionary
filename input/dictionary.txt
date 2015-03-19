@@ -1,0 +1,6 @@
+Apple	Its a fruit
+Bat	a bird
+Cat	an animal
+Dog	Enemy of cat
+Egg	a food product
+Fan	an object
